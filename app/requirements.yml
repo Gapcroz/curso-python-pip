@@ -1,0 +1,6 @@
+name: py2022
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+prefix: /home/gapcroz/anaconda3/envs/py2022
